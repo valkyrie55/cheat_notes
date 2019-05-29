@@ -1,0 +1,9 @@
+You can achieve this by applying below simple steps -
+
+    1. Check python version on terminal - python --version
+    2. Get root user privileges. On terminal type - sudo su
+    3. Write down the root user password
+    4. Execute this command to switch to python 3.6 -
+    5. update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+    6. Check python version - python --version
+    Done
